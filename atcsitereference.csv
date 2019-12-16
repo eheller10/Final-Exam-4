@@ -1,0 +1,105 @@
+SiteNumber,CountID,CounterType,ChannelDirection,Road,RoadName,Comments,Easting,Northing
+6,6c1,Cycle,Channel 1: North West                                     ,Cycle Path,Cinder Lane,,459025,452304
+6,6c2,Cycle,Channel 2: South East,Cycle Path,Cinder Lane,,459025,452304
+8,8c3,Cycle,Channel 3: Cycles East 1             ,Shared Use,Crichton Avenue,,460122,453499
+8,8c4,Cycle,Channel 4: Cycles West 1            ,Shared Use,Crichton Avenue,,460122,453499
+8,8c5,Cycle,Channel 5: Cycles East 2             ,Shared Use,Crichton Avenue,,460122,453499
+8,8c6,Cycle,Channel 6: Cycles West 2,Shared Use,Crichton Avenue,,460122,453499
+19,19c1,Cycle,Channel 1: North To Railway                               ,Cycle Path,Hob Moor,,458921,450410
+19,19c2,Cycle,Channel 2: South to Tadcaster Road   ,Cycle Path,Hob Moor,,458921,450410
+19,19c3,Cycle,Channel 3: East to Hob Terrace             ,Cycle Path,Hob Moor,,458921,450410
+19,19c4,Cycle,Channel 4: West to Tadcaster Road          ,Cycle Path,Hob Moor,,458921,450410
+27,27c1,Cycle,Channel 1: South                                    ,Cycle Path,Maple Grove,,460444,450190
+27,27c2,Cycle,Channel 2: North ,Cycle Path,Maple Grove,,460444,450190
+28,28c1,Cycle,Channel 1: Bridge to Maple                              ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c2,Cycle,Channel 2: Maple to Bridge,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c3,Cycle,Channel 3: Bridge to Maple                       ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c4,Cycle,Channel 4: Maple to Bridge                                  ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c5,Cycle,Channel 5: Bridge to St Georges                                 ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c6,Cycle,Channel 6: St Georges to Bridge                               ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c7,Cycle,Channel 7: Bridge to St Georges                              ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+28,28c8,Cycle,Channel 8: St Georges to Maple                         ,Cycle Path,Millennium Bridge,No longer used,460401,450203
+31,31c2,Cycle,Channel 2: North                                             ,Shared Use,A1237 - Shipton Rd & Millfield Lane,,456948,454246
+31,31c4,Cycle,Channel 4: South                ,Shared Use,A1237 - Shipton Rd & Millfield Lane,,456948,454246
+38,38c1,Cycle,Channel 1: East                               ,Shared Use,A1237 - Wigginton Rd to Haxby Rd,,460211,456170
+38,38c2,Cycle,Channel 2: West,Shared Use,A1237 - Wigginton Rd to Haxby Rd,,460211,456170
+43,43c3,Cycle,Channel 3: North East ,On Road,Rawcliffe Lane,,459127,453324
+43,43c4,Cycle,Channel 4: South West,On Road,Rawcliffe Lane,,459127,453324
+47,47c1,Cycle,Channel 1: North                              ,On Road,Skeldergate Bridge,,460328,451263
+47,47c2,Cycle,Channel 2: South,On Road,Skeldergate Bridge,,460328,451263
+48,48c1,Cycle,Channel 1: North East                                 ,Cycle Path,St.Georges Field,,460479,451186
+48,48c2,Cycle,Channel 2: South West ,Cycle Path,St.Georges Field,,460479,451186
+51,51c1,Cycle,Channel 1: East                                       ,Cycle Path,Terrys,,460027,449828
+51,51c2,Cycle,Channel 2: West,Cycle Path,Terrys,,460027,449828
+58,58c1,Cycle,Channel 1: East                                     ,Shared Use,A1079 Hull Road,,463968,451301
+58,58c2,Cycle,Channel 2: West ,Shared Use,A1079 Hull Road,,463968,451301
+62,62c1,Cycle,Channel 1: South West                            ,Cycle Path,James Street Orbital Cycle Track,,461163,452177
+62,62c2,Cycle,Channel 2: North East ,Cycle Path,James Street Orbital Cycle Track,,461163,452177
+63,63c1,Cycle,Channel 1: East                                ,Cycle Path,path connecting Tribune Way to Water Lane,,459483,454794
+63,63c2,Cycle,Channel 2: West,Cycle Path,path connecting Tribune Way to Water Lane,,459483,454794
+64,64c1,Cycle,Channel 1: East                                ,Cycle Path,path connecting Manor Lane to Hurricane Way,,458329,455191
+64,64c2,Cycle,Channel 2: West,Cycle Path,path connecting Manor Lane to Hurricane Way,,458329,455191
+65,65c1,Cycle,Channel 1: North East                              ,Cycle Path,Oakdale Road South,,458839,454653
+65,65c1,Cycle,Channel 1: North East                              ,Cycle Path,Oakdale Road South,,458839,454653
+66,66c1,Cycle,Channel 1: South West                                   ,Cycle Path,Oakdale Road North,,458806,454728
+66,66c2,Cycle,Channel 2: North East,Cycle Path,Oakdale Road North,,458806,454728
+67,67c1,Cycle,Channel 1: North                            ,Cycle Path,Sterling Road,,459540,455827
+67,67c2,Cycle,Channel 2: South,Cycle Path,Sterling Road,,459540,455827
+68,68c1,Cycle,Channel 1: North East                                 ,Shared Use,Malton Road (Outbound),,461902,453688
+68,68c2,Cycle,Channel 2: South West ,Shared Use,Malton Road (Outbound),,461902,453688
+69,69c1,Cycle,Channel 1: North East                             ,Shared Use,Malton Road (Inbound),,461933,453695
+69,69c2,Cycle,Channel 2: South West ,Shared Use,Malton Road (Inbound),,461933,453695
+70,70c1,Cycle,Channel 1: North                             ,Cycle Path,Beckfield Lane,,456918,452782
+70,70c2,Cycle,Channel 2: South,Cycle Path,Beckfield Lane,,456918,452782
+71,71c1,Cycle,Channel 1: North                             ,Cycle Path,Woodlea Avenue,,457266,451852
+71,71c2,Cycle,Channel 2: South,Cycle Path,Woodlea Avenue,,457266,451852
+72,72c1,Cycle,Channel 1: South West                  ,Cycle Path,Scarcroft Lane,,459875,451296
+72,72c2,Cycle,Channel 2: North East,Cycle Path,Scarcroft Lane,,459875,451296
+73,73c2,Cycle,Channel 2: West                                     ,On Road,A1079 Lawrence Street,,461537,451325
+73,73c4,Cycle,Channel 4: East ,On Road,A1079 Lawrence Street,,461537,451325
+74,74c3,Cycle,Channel 3: North                                                ,On Road,Cemetery Road,,460946,450945
+74,74c4,Cycle,Channel 4: South ,On Road,Cemetery Road,,460946,450945
+75,75c2,Cycle,Channel 2: North East ,Cycle Path,Terry Avenue,,460353,450349
+75,75c1,Cycle,Channel 1: South West                          ,Cycle Path,Terry Avenue,,460353,450349
+76,76c1,Cycle,Channel 1: Inbound                                 ,Shared Use,Millfield Lane,No longer used,456514,454075
+76,76c2,Cycle,Channel 2: Outbound,Shared Use,Millfield Lane,No longer used,456514,454075
+77,77c1,Cycle,Channel 1: South West                          ,Shared Use,A1176 Clifton Bridge,,458962,452820
+77,77c2,Cycle,Channel 2: North East ,Shared Use,A1176 Clifton Bridge,,458962,452820
+79,79c3,Cycle,Channel 3: South West                                                 ,On Road,A1036 Heworth Green,,461058,452573
+79,79c4,Cycle,Channel 4: North East ,On Road,A1036 Heworth Green,,461058,452573
+80,80c1,Cycle,Channel 1: North,On Road,Huntington Road,,460876,453622
+81,81c1,Cycle,Channel 1: South ,On Road,Huntington Road,,460890,453619
+82,82c2,Cycle,Channel 2: North East ,Shared Use,James Street Morrisons,,461162,452026
+82,82c1,Cycle,Channel 1: South West                            ,Shared Use,James Street Morrisons,,461162,452026
+83,83c1,Cycle,Channel 1: North West                              ,Cycle Path,Naburn Bridge,,459691,446591
+83,83c2,Cycle,Channel 2: South East,Cycle Path,Naburn Bridge,,459691,446591
+84,84c1,Cycle,Channel 1: North East                 ,Cycle Path,Scarborough Bridge,,459642,452091
+84,84c2,Cycle,Channel 2: South West,Cycle Path,Scarborough Bridge,,459642,452091
+85,85c1,Cycle,Channel 1: North East                            ,Cycle Path,Almery Terrace,,459613,452093
+85,85c2,Cycle,Channel 2: South West ,Cycle Path,Almery Terrace,,459613,452093
+86,86c1,Cycle,Channel 1 : North East                        ,Cycle Path,Rawcliffe Bar,,457523,454416
+86,86c2,Cycle,Channel 2: South West ,Cycle Path,Rawcliffe Bar,,457523,454416
+87,87c2,Cycle,Channel 2: South East,Cycle Path,Millfield Lane,,456508,454085
+87,87c1,Cycle,Channel 1: North West                                ,Cycle Path,Millfield Lane,,456508,454085
+88,88c1,Cycle,Channel 1: East                                       ,Cycle Path,Windmill Lane,,462779,450869
+88,88c2,Cycle,Channel 2: West ,Cycle Path,Windmill Lane,,462779,450869
+89,89c3,Cycle,Channel 3: South                                    ,On Road,Clarence Street,,460278,452679
+89,89c4,Cycle,Channel 4: North ,On Road,Clarence Street,,460278,452679
+90,90c1,Cycle,Channel 1: North West                                ,Shared Use,Crichton Avenue,No longer used,460124,453498
+90,90c2,Cycle,Channel 2: South East,Shared Use,Crichton Avenue,No longer used,460124,453498
+91,91c1,Cycle,Channel 1: North West                                      ,Shared Use,Crichton Avenue,No longer used,460127,453498
+91,91c2,Cycle,Channel 2: South East ,Shared Use,Crichton Avenue,No longer used,460127,453498
+92,92c2,Cycle,Channel 2: North West,Cycle Path,Retreat Lane,,461786,450857
+92,92c1,Cycle,Channel 1: South East                                      ,Cycle Path,Retreat Lane,,461786,450857
+94,94c1,Cycle,Channel 1: Bridge to Maple                                      ,Cycle Path,Millennium Bridge,,460401,450205
+94,94c2,Cycle,Channel 2: Maple to Bridge                                                        ,Cycle Path,Millennium Bridge,,460401,450205
+94,94c3,Cycle,Channel 3: Bridge to Maple                                                      ,Cycle Path,Millennium Bridge,,460401,450205
+94,94c4,Cycle,Channel 4: Maple to Bridge                                 ,Cycle Path,Millennium Bridge,,460401,450205
+95,95c1,Cycle,Channel 1: Bridge to St Georges                  ,Cycle Path,Millennium Bridge,,460401,450205
+95,95c2,Cycle,Channel 2: St Georges to Bridge                  ,Cycle Path,Millennium Bridge,,460401,450205
+95,95c3,Cycle,Channel 3: Bridge to St Georges   ,Cycle Path,Millennium Bridge,,460401,450205
+95,95c4,Cycle,Channel 4: St Georges to Bridge                         ,Cycle Path,Millennium Bridge,,460401,450205
+96,96c3,Cycle,Channel 3: East,On Road,Leeman Road,,458807,452135
+96,96c4,Cycle,Channel 4: West,On Road,Leeman Road,,458807,452135
+99,99c3,Cycle,Channel 3: North,On Road,Eboracum Way,,461019,452468
+99,99c4,Cycle,Channel 4: South,On Road,Eboracum Way,,461019,452468
